@@ -1,0 +1,17 @@
+
+Tool and Software used:
+
+1. jdk-8u131-windows-x64
+2. Eclipse IDE for Java Developers - 2020-09
+3. Added json-simple-1.1 JAR file
+4. Created database json file "urls.json"
+
+
+Example Commands usage
+1. To start the program: run java urldatabase.
+2. Commands:
+  a. storeurl google.com  
+  b. get google.com
+  c. count google.com
+  d. list
+3. To exit the program enter exit
